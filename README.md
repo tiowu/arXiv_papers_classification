@@ -1,8 +1,7 @@
 # [Leveraging Text Embeddings and Neural Networks for ArXiv Papers Classification](https://tiowu.webflow.io/arxiv-papers-classification)
 
-<p>
-<b>Official Website </b>: https://math.nickvlamis.com/sro/sro-ml <p>
-<b>Paper-style Report and Poster </b>: https://www.tiowu.com/arxiv-papers-classification <p>
+<img width="1000" height="600" alt="models_AUC_morph" src="https://github.com/tiowu/ArXiv_Papers_Classification/blob/b46fc3181ecacc370fb8be4ceae349f8b860d298/assets/2024%20Summer%20Research%20Poster.jpg" />
+
   
 <b>Research Question </b>: Can supervised learning neural networks, using advanced embedding techniques (e.g.
 doc2vec), outperform the arXiv’s API in auto-classification? 
