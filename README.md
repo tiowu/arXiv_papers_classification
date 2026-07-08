@@ -1,5 +1,9 @@
 # [Leveraging Text Embeddings and Neural Networks for ArXiv Papers Classification](https://tiowu.webflow.io/arxiv-papers-classification)
 
+ArXiv Bulk Data: <a href ="https://www.kaggle.com/datasets/Cornell-University/arxiv"> Kaggle.com via Google Cloud Storage buckets </a>
+
+ArXiv HuggingFace minor & major Datasets: <a href ="https://huggingface.co/datasets/mlcore/arxiv-classifier"> Huggingface.co </a>
+
 <img width="1000" height="600" alt="models_AUC_morph" src="https://github.com/tiowu/ArXiv_Papers_Classification/blob/b46fc3181ecacc370fb8be4ceae349f8b860d298/assets/2024%20Summer%20Research%20Poster.jpg" />
 
 <b>Research Question </b>: Can supervised learning neural networks, using advanced embedding techniques (e.g.
@@ -28,7 +32,3 @@ how to work both in a team and independently.
 - Kathy He 
 - FangFang (Daisy) Lyu
 - **[Tao Wu](https://tiowu.webflow.io/)**
-
-ArXiv Bulk Data: <a href ="https://www.kaggle.com/datasets/Cornell-University/arxiv"> Kaggle.com via Google Cloud Storage buckets </a>
-
-ArXiv HuggingFace minor & major Datasets: <a href ="https://huggingface.co/datasets/mlcore/arxiv-classifier"> Huggingface.co </a>
