@@ -1,12 +1,12 @@
 # [Leveraging Text Embeddings and Neural Networks for ArXiv Papers Classification](https://tiowu.webflow.io/arxiv-papers-classification)
 
-<b>Team Members <br></b>
-<p>
-- **[Nicholas Vlamis](https://vlamis.nyc)**, Faculty Mentor <br>
-- Kathy He <br>
-- FangFang (Daisy) Lyu <br>
-- **[Tao Wu](https://tiowu.webflow.io/)** <br>
-</p>
+## Team Members 
+
+- **[Nicholas Vlamis](https://vlamis.nyc)**, Faculty Mentor
+- Kathy He 
+- FangFang (Daisy) Lyu
+- **[Tao Wu](https://tiowu.webflow.io/)**
+
 
 <img width="1000" height="600" alt="models_AUC_morph" src="https://github.com/tiowu/ArXiv_Papers_Classification/blob/b46fc3181ecacc370fb8be4ceae349f8b860d298/assets/2024%20Summer%20Research%20Poster.jpg" />
 
