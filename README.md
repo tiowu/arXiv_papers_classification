@@ -32,3 +32,5 @@ how to work both in a team and independently.
 - Kathy He 
 - FangFang (Daisy) Lyu
 - **[Tao Wu](https://tiowu.webflow.io/)**
+
+To use this repository, you agree to abide by the MIT License.
